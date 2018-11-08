@@ -1,1 +1,1 @@
-doPost
+getImageResponse
